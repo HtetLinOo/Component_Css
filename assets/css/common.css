@@ -3,7 +3,7 @@ html {
     text-rendering: optimizeLegibility !important;
 }
 body {
-    font-family: "noto-sans-cjk-jp","ヒラギノ角ゴ Pro W3","HiraKakuPro-W3","Hiragino Kaku Gothic Pro","Hiragino Sans","メイリオ", "Meiryo", sans-serif;
+    font-family: "A-OTF-GothicBBBPro-Medium","A-OTF-RyuminPro-Bold","A-OTF-RyuminPro-ExBold","A-OTF-RyuminPro-ExHeavy","A-OTF-RyuminPro-Heavy","A-OTF-RyuminPro-Light","A-OTF-RyuminPro-Medium","A-OTF-RyuminPro-Regular","A-OTF-RyuminPro-Ultra","こぶりなゴシック Std W3","こぶりなゴシック Std W6","ヒラギノUD明朝 Std W4","ヒラギノUD角ゴ Std W3","ヒラギノUD角ゴ Std W4","ヒラギノUD角ゴ Std W5","ヒラギノUD角ゴ Std W6","ヒラギノUD角ゴ StdN W4","ヒラギノUD角ゴ StdN W5","noto-sans-cjk-jp","メイリオ", "Meiryo", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 2;
