@@ -484,7 +484,6 @@ Card
 }
 .card-body{
     display: grid;
-    /* height: 100%; */
 }
 @media screen and (max-width: 768px) {
     .card-wrap-two .card-img{
@@ -507,14 +506,12 @@ Card
 }
 .card-btn{
     text-align: right;
+    align-self: end;
 }
 .card-btn .btn-mrb{
     margin: 0 7px 7px 0;
 }
 @media screen and (max-width: 768px) {
-    .card-btn{
-        align-self: end;
-    }
     .card-btn .btn-mrb{
     margin-bottom: 0;
     }
