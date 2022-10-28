@@ -342,6 +342,7 @@ button
 }
 
 .btn-border-blue a, .btn-border-green a, .btn-border-red a, .btn-border-yellow a{
+    font-family: "こぶりなゴシック Std W6", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     padding: 6px 25px;
@@ -424,6 +425,7 @@ button
 @media screen and (max-width: 768px) {
     .btn-border-blue a, .btn-border-green a, .btn-border-red a, .btn-border-yellow a{
     font-size: 13px;
+    padding: 6px 11.5px;
     }
 }
 
@@ -521,6 +523,5 @@ Card
 /* ============================
 Card End
 =============================*/
-
 
 /* Test Component */
